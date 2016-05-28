@@ -1,0 +1,3 @@
+# ESP-WROOM-02
+
+ESP-WROOM-02 の 3D MODELです。
